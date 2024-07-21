@@ -1,0 +1,9 @@
+name: lifeBuyer
+version: '${project.version}'
+main: mrc.lifebuyer.LifeBuyer
+api-version: '1.16'
+commands:
+  sbuyer:
+  sixbuyer:
+depend:
+  - Vault
